@@ -18,7 +18,10 @@
 - 💬 Ask me about my [1991 Honda Civic](https://www.instagram.com/malcolms_civics/) I'm in the process of rebuilding
 
 ### Blog Posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Working through a Pig Latin generator](https://medium.com/@malcolm-keyes/working-through-a-pig-latin-generator-15456c761d52?source=rss-7cf62e377b65------2)
+- [My first impressions of Ruby](https://medium.com/@malcolm-keyes/my-first-impressions-of-ruby-e2e798cbcea1?source=rss-7cf62e377b65------2)
+<!-- BLOG-POST-LIST:END -->
 
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malcolmk181&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
