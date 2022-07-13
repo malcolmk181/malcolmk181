@@ -19,6 +19,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using JavaScript to pull web data into Minecraft](https://medium.com/@malcolm-keyes/using-javascript-to-pull-web-data-into-minecraft-d00fadd969b8?source=rss-7cf62e377b65------2)
 - [Working through a Pig Latin generator](https://medium.com/@malcolm-keyes/working-through-a-pig-latin-generator-15456c761d52?source=rss-7cf62e377b65------2)
 - [My first impressions of Ruby](https://medium.com/@malcolm-keyes/my-first-impressions-of-ruby-e2e798cbcea1?source=rss-7cf62e377b65------2)
 <!-- BLOG-POST-LIST:END -->
