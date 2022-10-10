@@ -12,8 +12,7 @@
 </div>
 
 ### About Me
-- 🌱 I’m currently learning about the Ruby on Rails stack
-- 🔭 I’m currently working on a social media platform for the [car community](https://github.com/malcolmk181/community), built on the Flask Framework
+- 🌱 I’m currently learning Vue.js, Node.js, and Nuxt.js
 - 🤔 I’m looking for help with algorithmic problem solving and writing scaleable code
 - 💬 Ask me about my [1991 Honda Civic](https://www.instagram.com/malcolms_civics/) I'm in the process of rebuilding
 
