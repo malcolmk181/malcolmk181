@@ -26,8 +26,9 @@
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malcolmk181&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
 <br><br>
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmk181&layout=compact&hide=html&langs=10)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 Inspiration taken from the https://www.sitepoint.com/github-profile-readme/ tutorial :) thank you!
