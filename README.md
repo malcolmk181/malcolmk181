@@ -12,7 +12,7 @@
 </div>
 
 ### About Me
-- 🌱 I’m currently learning Vue.js, Node.js, and Nuxt.js
+- 🌱 I’m currently learning about Compilers & Computer Architecture, and OCaml & Verilog
 - 🤔 I’m looking for help with algorithmic problem solving and writing scaleable code
 - 💬 Ask me about my [1991 Honda Civic](https://www.instagram.com/malcolms_civics/) I'm in the process of rebuilding
 
