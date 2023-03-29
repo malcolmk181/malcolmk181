@@ -1,5 +1,5 @@
 <div id="intro" align="center">
-  Hi! My name is Malcolm. I'm an undergraduate student at Yale University studying Computer Science to become a software engineer :)
+  Hi! My name is Malcolm. I'm an undergraduate student at Yale University studying Computer Science.
   <br><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/malcolm-keyes/">
@@ -12,9 +12,8 @@
 </div>
 
 ### About Me
-- 🌱 I’m currently learning about Compilers & Computer Architecture, and OCaml & Verilog
-- 🤔 I’m looking for help with algorithmic problem solving and writing scaleable code
-- 💬 Ask me about my [1991 Honda Civic](https://www.instagram.com/malcolms_civics/) I'm in the process of rebuilding
+- 🌱 I’m currently learning about Embedded Systems, Compilers, Algorithms & Computer Architecture
+- 🧰: I have experience with Flask, Ruby on Rails, Nuxt, Firebase, SQL, Python, Ruby, Javascript, C, OCaml, Assembly, HTML, and CSS
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -26,9 +25,9 @@
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malcolmk181&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
 <br><br>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmk181&layout=compact&hide=html&langs=10)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmk181&layout=compact&hide=html&langs=10)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
 Inspiration taken from the https://www.sitepoint.com/github-profile-readme/ tutorial :) thank you!
