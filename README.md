@@ -12,8 +12,8 @@
 </div>
 
 ### About Me
-- 🌱 I’m currently learning about Embedded Systems, Compilers, Algorithms & Computer Architecture
-- 🧰: I have experience with Flask, Ruby on Rails, Nuxt, Firebase, SQL, Python, Ruby, Javascript, C, OCaml, Assembly, HTML, and CSS
+- 🌱 I’m currently learning about ML Ops
+- 🧰: I have experience with FastAPI, Flask, Ruby on Rails, Nuxt, Firebase, SQL, Python, Ruby, Javascript, C, OCaml, Assembly, HTML, and CSS
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
