@@ -1,5 +1,5 @@
 <div id="intro" align="center">
-  Hi! My name is Malcolm. I'm an undergraduate student at Yale University studying Computer Science.
+  Hi! My name is Malcolm. I'm a recent CS graduate from Yale University, working at Veterans United Home Loans as an MLOps Engineer.
   <br><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/malcolm-keyes/">
@@ -12,7 +12,7 @@
 </div>
 
 ### About Me
-- 🌱 I’m currently learning about ML Ops
+- 🌱 I’m currently learning about MLOps
 - 🧰: I have experience with FastAPI, Flask, Ruby on Rails, Nuxt, Firebase, SQL, Python, Ruby, Javascript, C, OCaml, Assembly, HTML, and CSS
 
 ### Blog Posts
@@ -21,12 +21,6 @@
 - [Working through a Pig Latin generator](https://medium.com/@malcolm-keyes/working-through-a-pig-latin-generator-15456c761d52?source=rss-7cf62e377b65------2)
 - [My first impressions of Ruby](https://medium.com/@malcolm-keyes/my-first-impressions-of-ruby-e2e798cbcea1?source=rss-7cf62e377b65------2)
 <!-- BLOG-POST-LIST:END -->
-
-### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malcolmk181&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
-<br><br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmk181&layout=compact&hide=html&langs=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
